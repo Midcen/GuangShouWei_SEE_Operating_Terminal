@@ -1,2 +1,0 @@
-# GuangShouWei_SEE_Operating_Terminal
-Operation Terminal
